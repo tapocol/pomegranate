@@ -20,4 +20,5 @@ addons:
   postgresql: "9.6"    
 
 script:
+  - make dep
   - make ci
