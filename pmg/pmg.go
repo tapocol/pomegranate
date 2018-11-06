@@ -8,7 +8,7 @@ import (
 	"text/tabwriter"
 	"time"
 
-	"github.com/btubbs/pomegranate"
+	"github.com/tapocol/pomegranate"
 	cli "gopkg.in/urfave/cli.v1"
 )
 
